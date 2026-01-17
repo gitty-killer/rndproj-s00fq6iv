@@ -1,4 +1,2 @@
-# rndproj-s00fq6iv
-
-Random c project for notes.
-
+# rndproj-s00fq6iv\n\nCLI that counts words from stdin.\n
+New-FileDef
