@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-s00fq6iv"",
+  ""goal"": ""dataset sampler for inventory"",
+  ""language"": ""rust"",
+  ""template"": ""rust-cli""
+}
